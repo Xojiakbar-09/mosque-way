@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 112" width="100" height="112">
+<defs>
+  <linearGradient id="pin" x2=".75" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#83c9ff"/><stop offset=".43" stop-color="#168ef2"/><stop offset="1" stop-color="#0052b3"/></linearGradient>
+  <linearGradient id="dome"><stop stop-color="#81e3d2"/><stop offset=".38" stop-color="#44b7ab"/><stop offset="1" stop-color="#187779"/></linearGradient>
+  <linearGradient id="stone"><stop stop-color="#fffbed"/><stop offset=".55" stop-color="#fff3cf"/><stop offset="1" stop-color="#cdbf9f"/></linearGradient>
+</defs>
+<path d="M50 109 C45 109 7 72 7 47 A43 43 0 1 1 93 47 C93 72 55 109 50 109Z" fill="url(#pin)" stroke="white" stroke-width="3"/>
+<g fill="#17456e" opacity=".32" transform="translate(0 3)"><ellipse cx="50" cy="69" rx="27" ry="5"/></g>
+<path d="M32 45h36v24H32z" fill="url(#stone)"/>
+<path d="M31 45c0-10 13-14 19-23 5 9 19 13 19 23q-17 6-38 0Z" fill="url(#dome)"/>
+<path d="M48 24l2-8 2 8z" fill="#ffe6a1"/>
+<path d="M42 69v-9q0-6 8-11 8 5 8 11v9z" fill="#584d76"/>
+<g id="tower"><path d="M22 41h8v27h-8z" fill="url(#stone)"/><path d="M20 41l6-13 6 13z" fill="url(#dome)"/><path d="M21 44h10" stroke="#dcc69b" stroke-width="2"/></g>
+<path d="M70 41h8v27h-8z" fill="url(#stone)"/><path d="M68 41l6-13 6 13z" fill="url(#dome)"/><path d="M69 44h10" stroke="#dcc69b" stroke-width="2"/>
+<path d="M21 69h58" stroke="#fff3cf" stroke-width="3" stroke-linecap="round"/>
+</svg>

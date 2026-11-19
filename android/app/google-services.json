@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "746005391837",
+    "project_id": "masjid-e956c",
+    "storage_bucket": "masjid-e956c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746005391837:android:39708b04466652cd0d2e34",
+        "android_client_info": {
+          "package_name": "com.jiraya.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746005391837-a11puur34dpq70adu03pj7vhiqlfh26t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiraya.maps",
+            "certificate_hash": "5a4fead4063fe3cfca50aec2f479c8cb41da88f7"
+          }
+        },
+        {
+          "client_id": "746005391837-b9rmeif3alf9j5vj43g5faep77n3ougu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVG0ShJFKiwWnYOL3XHAoNr0zhOPom9qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746005391837-b9rmeif3alf9j5vj43g5faep77n3ougu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "746005391837-8pn0vmldmmj7vvur5sag2qpktl7j1k5t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jiraya.maps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+name: maps
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  bloc: ^9.2.1
+  cloud_firestore: ^7.2.0
+  firebase_auth: ^7.0.1
+  firebase_core: ^5.1.0
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^9.1.1
+  flutter_localizations:
+    sdk: flutter
+  flutter_svg: ^2.3.2
+  geocoding: ^5.0.1
+  geolocator: ^14.1.2
+  google_sign_in: ^7.2.0
+  hive_ce: 2.16.0
+  hive_ce_flutter: 2.3.4
+  http: ^1.6.0
+  mapbox_maps_flutter: ^3.34.2
+  timezone: ^0.11.2
+  true_compass: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  plugin_platform_interface: ^2.1.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/mock/
+    - assets/icon/
+
+

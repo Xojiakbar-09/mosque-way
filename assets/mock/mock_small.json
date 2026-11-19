@@ -1,0 +1,908 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.4 2390de5a",
+  "osm3s": {
+    "timestamp_osm_base": "2026-11-09T10:32:50Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way",
+      "id": 149766451,
+      "center": {
+        "lat": 41.3056784,
+        "lon": 69.2300791
+      },
+      "nodes": [
+        1627157651,
+        9131162871,
+        9131162872,
+        1627157650,
+        1627157638,
+        1627157652,
+        2532666527,
+        2532666530,
+        1187056465,
+        1187056452,
+        1187056660,
+        1187056567,
+        2532666529,
+        9687751241,
+        9687751242,
+        9687751243,
+        9687751244,
+        9131162869,
+        1627157651
+      ],
+      "tags": {
+        "addr:housenumber": "3a",
+        "addr:street": "Kamolon koʻchasi",
+        "addr:street:ru": "Камолон улица",
+        "alt_name:uz": "Камоло́н",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "name": "Kamolon",
+        "name:en": "Kamalan",
+        "name:ru": "Камалан",
+        "religion": "muslim",
+        "source": "Bing",
+        "wikimedia_commons": "File:Kamolon_masjidi.jpg"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387466102,
+      "center": {
+        "lat": 41.2916781,
+        "lon": 69.2309779
+      },
+      "nodes": [
+        3907607714,
+        1306685602,
+        5822544367,
+        5822544368,
+        1306685584,
+        3907607715,
+        1210234882,
+        3907607717,
+        3907607716,
+        5822544366,
+        3907607713,
+        3907607714
+      ],
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Chilonzor 1-o'tish ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "sunni",
+        "name": "Sobitxon Xoji jome masjidi",
+        "name:en": "Sabitkhan Hoji",
+        "name:ru": "Сабитхан Ходжи",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 982206779,
+      "center": {
+        "lat": 41.2899929,
+        "lon": 69.2457936
+      },
+      "nodes": [
+        9083882529,
+        9083882530,
+        12359985339,
+        12359985340,
+        9083882531,
+        9083882532,
+        12359985341,
+        12359985342,
+        9083882529
+      ],
+      "tags": {
+        "addr:housenumber": "20",
+        "addr:street": "Abdulla Avloni ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "5",
+        "denomination": "sunni",
+        "name": "Rakat jome masjidi",
+        "name:en": "Rakat",
+        "name:ru": "Ракат",
+        "phone": "+998 71 254 47 69",
+        "religion": "muslim",
+        "wikidata": "Q130599794",
+        "wikimedia_commons": "Category:Rakat Mosque",
+        "wikipedia": "uz:Rakat masjidi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 33427229,
+      "center": {
+        "lat": 41.2939292,
+        "lon": 69.2268739
+      },
+      "nodes": [
+        380354775,
+        380354777,
+        6705329474,
+        6705329473,
+        4377092905,
+        380354779,
+        380354781,
+        6705329460,
+        6705329462,
+        6705329461,
+        6705329459,
+        380354775
+      ],
+      "tags": {
+        "addr:city": "Ташкент",
+        "addr:housenumber": "13А",
+        "addr:place": "Chilonzor I mavzesi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "2",
+        "denomination": "sunni",
+        "name": "Novza",
+        "name:en": "Novza",
+        "name:ru": "Новза",
+        "religion": "muslim",
+        "wikidata": "Q122672532",
+        "wikimedia_commons": "Category:Novza mosque",
+        "wikipedia": "uz:Novza masjidi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 175308882,
+      "center": {
+        "lat": 41.312349,
+        "lon": 69.2300932
+      },
+      "nodes": [
+        1859178557,
+        1859178543,
+        4099693051,
+        4099693048,
+        4099693049,
+        1859178539,
+        4099693055,
+        4424845314,
+        1859178551,
+        4424786409,
+        1859178554,
+        1859178557
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Eshonguzar masjidi",
+        "name:en": "Eshanguzar",
+        "name:ru": "Эшангузар",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683194191,
+      "lat": 41.3158616,
+      "lon": 69.2362398,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Baland jome masjidi",
+        "name:ru": "мечеть Баланд",
+        "religion": "muslim",
+        "was:addr:full": "Бешёғоч кўчаси, 173"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683194592,
+      "lat": 41.3135421,
+      "lon": 69.2257717,
+      "tags": {
+        "addr:full": "С.Дарвоза кўчаси, 122",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "С.Дарвоза кўчаси, 122",
+        "name": "ZANGI - OTA jome masjidi",
+        "name:ru": "мечеть Занги Ота",
+        "note": "Занги-Ота",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 152789954,
+      "center": {
+        "lat": 41.3182798,
+        "lon": 69.2382975
+      },
+      "nodes": [
+        1655693034,
+        1655693032,
+        1655693031,
+        1655693033,
+        1655693034
+      ],
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Ko'k masjid ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "name": "Kok",
+        "name:en": "Kok",
+        "name:ru": "Кок",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 790949485,
+      "center": {
+        "lat": 41.3172335,
+        "lon": 69.2510216
+      },
+      "nodes": [
+        7394168654,
+        13502931968,
+        7394168655,
+        7394168656,
+        7394168657,
+        7394168658,
+        7394168659,
+        7394168654
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "building:levels": "2",
+        "name": "Orifjonboy Masjidi",
+        "name:en": "Arifjanbay",
+        "name:ru": "Арифджанбай",
+        "religion": "muslim",
+        "wikidata": "Q122672271",
+        "wikipedia": "uz:Orifjonboy masjidi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247916,
+      "lat": 41.31578,
+      "lon": 69.225033,
+      "tags": {
+        "addr:full": "Самарқанд дарвоза маҳалласи Жиззах кўчаси 41",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Самарқанд дарвоза маҳалласи Жиззах кўчаси 41",
+        "name": "Obidxon Mahdum masjidi",
+        "name:en": "Abidkhan Makhdum",
+        "name:ru": "Абидхан Махдум",
+        "note": "Обидхон махдум (маҳаллий)",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 604147862,
+      "center": {
+        "lat": 41.2799245,
+        "lon": 69.2332504
+      },
+      "nodes": [
+        5733343973,
+        5733343974,
+        5733343975,
+        5733343976,
+        5733343977,
+        5733343979,
+        5733343978,
+        5733343973
+      ],
+      "tags": {
+        "addr:city": "Ташкент",
+        "addr:housenumber": "48",
+        "addr:street": "Саади Сиражиддинова",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Мечет Рахимжан-ата",
+        "name:ru": "Мечет Рахимжан-ата",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247911,
+      "lat": 41.3204394,
+      "lon": 69.2327791,
+      "tags": {
+        "addr:full": "Чорсу мавзеси 13а",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Чорсу мавзеси 13а",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Мўйи муборак",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 144057369,
+      "center": {
+        "lat": 41.3204959,
+        "lon": 69.2326714
+      },
+      "nodes": [
+        11579142807,
+        1576420777,
+        11579142805,
+        11579142804,
+        1576420778,
+        11579142802,
+        11579142803,
+        11579142806,
+        1576420779,
+        1576420781,
+        11579142807
+      ],
+      "tags": {
+        "addr:city": "Ташкент",
+        "alt_name": "Мўйи муборак Уккоша жоме масжиди",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "name": "Ukkosha jome' masjidi",
+        "name:en": "Ukkosha mosque",
+        "name:ru": "Уккоша мечеть",
+        "note": "Самарканд Дарбаза улица дом 13 из maps.me",
+        "religion": "muslim",
+        "service_times": "sunset,sunrise",
+        "wikidata": "Q20536501",
+        "wikimedia_commons": "Category:Ukkosha Mosque",
+        "wikipedia": "uz:Moʻyi muborak Ukkosha masjidi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247903,
+      "lat": 41.317918,
+      "lon": 69.224337,
+      "tags": {
+        "addr:full": "Сузук ота кўчаси 50 -",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Suzuk Ota jom`e masjidi",
+        "name:en": "Suzuk Ata",
+        "name:ru": "Сузук Ата",
+        "note": "Сузук-Ота",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 95639944,
+      "center": {
+        "lat": 41.3237475,
+        "lon": 69.2371411
+      },
+      "nodes": [
+        1108949507,
+        1108949459,
+        1108949476,
+        1108949546,
+        12034822992,
+        12034822993,
+        12034822995,
+        12034822997,
+        12034822996,
+        12034822994,
+        12034822991,
+        12034822990,
+        1108949507
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "height": "9",
+        "name": "Ходжа Ахрор Вали",
+        "name:en": "Khoja Ahror Valiy",
+        "name:fa": "خواجه احرار ولی",
+        "name:ru": "Ходжа Ахрор Вали",
+        "religion": "muslim",
+        "tourism": "attraction",
+        "wikipedia": "ru:Джума мечеть (Ташкент)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4683194092,
+      "lat": 41.3181719,
+      "lon": 69.2145409,
+      "tags": {
+        "addr:full": "Оқлон маҳалла, Кўкча дарвоза кўчаси 27",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "OQILON jom`e masjidi",
+        "name:ru": "Соборная мечеть АКИЛАН",
+        "note": "Оқлон маҳалла, Кўкча дарвоза кўчаси 27",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3732455357,
+      "lat": 41.3074313,
+      "lon": 69.2045917,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "“Фотимаи Заҳро”",
+        "name:en": "Fotimai Zahro",
+        "name:ru": "Фотимаи Заҳро",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6647621672,
+      "lat": 41.2959553,
+      "lon": 69.2031541,
+      "tags": {
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "Hasan qori jom`e masjidi",
+        "name:en": "Cathedral Mosque Hassan Corey",
+        "name:ru": "Соборная мечеть Хасан Кори",
+        "religion": "muslim",
+        "service_times": "sunset,sunrise"
+      }
+    },
+    {
+      "type": "way",
+      "id": 102381391,
+      "center": {
+        "lat": 41.2774699,
+        "lon": 69.2151894
+      },
+      "nodes": [
+        1182165887,
+        6301205786,
+        9110841076,
+        2132341977,
+        9110841077,
+        6301205778,
+        9110841073,
+        9110841074,
+        12909543172,
+        12909543169,
+        12909543166,
+        9110841075,
+        1182165653,
+        1182165969,
+        6301205784,
+        1182165746,
+        1182165887
+      ],
+      "tags": {
+        "addr:street": "Chilonzor ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Qozirobod",
+        "name:en": "Kazirabad",
+        "name:ru": "Казирабад",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247908,
+      "lat": 41.325251,
+      "lon": 69.220581,
+      "tags": {
+        "addr:full": "Шомахмудов кўчаси, 50",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Шомахмудов кўчаси, 50",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Яхё қори",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255706695,
+      "center": {
+        "lat": 41.3311015,
+        "lon": 69.2418957
+      },
+      "nodes": [
+        2613774971,
+        2613774974,
+        2613774973,
+        2613774969,
+        2613774971
+      ],
+      "tags": {
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Eshonguzar Mosque",
+        "name:ru": "Эшангузар мечеть",
+        "name:uz": "Eshonguzar Mosque",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137204557,
+      "lat": 41.3311419,
+      "lon": 69.2418742,
+      "tags": {
+        "addr:full": "Олмазор кўчаси, 2-тупик, 19",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Олмазор кўчаси, 2-тупик, 19",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Охунгузар (маҳаллий)",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247914,
+      "lat": 41.310076,
+      "lon": 69.199937,
+      "tags": {
+        "addr:full": "Қизилғунча кўчаси 4-проезд 4",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Қизилғунча кўчаси 4-проезд 4",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Ислом-нури",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 185633742,
+      "center": {
+        "lat": 41.3099518,
+        "lon": 69.1997987
+      },
+      "nodes": [
+        1962840808,
+        1962840802,
+        1962840805,
+        1962840810,
+        1962840808
+      ],
+      "tags": {
+        "addr:street": "Kizil G'uncha 4-o'tish ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "name": "Мечеть",
+        "name:en": "islom nuri",
+        "name:ru": "Ислом нури",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10610338354,
+      "lat": 41.3323151,
+      "lon": 69.2346782,
+      "tags": {
+        "addr:full": "Сағбон кўчаси, 61",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Сағбон кўчаси, 61",
+        "name": "Hofiz Kuhaki masjid",
+        "name:en": "Hofiz Kuhaki mosque",
+        "name:ru": "Хафиз Кухаки мечеть",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1159585097,
+      "center": {
+        "lat": 41.2910618,
+        "lon": 69.1973957
+      },
+      "nodes": [
+        10783755603,
+        10783755600,
+        10783755601,
+        10783755602,
+        10783755603
+      ],
+      "tags": {
+        "addr:housenumber": "50/5",
+        "addr:street": "Lutfiy ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "name": "Ko`zi Ojizlar",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247891,
+      "lat": 41.2909393,
+      "lon": 69.1973133,
+      "tags": {
+        "addr:full": "Чўпон ота кўчаси, 28а",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Чўпон ота кўчаси, 28а",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Кўзи ожизлар",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141044746,
+      "center": {
+        "lat": 41.3295442,
+        "lon": 69.2186597
+      },
+      "nodes": [
+        1543990601,
+        1543990602,
+        1543990604,
+        13289370378,
+        1543990605,
+        1543990601
+      ],
+      "tags": {
+        "addr:housenumber": "21a",
+        "addr:street": "Bogkucha mavzesi",
+        "addr:street:en": "Bogkucha Massif",
+        "addr:street:ru": "Богкуча массив",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Фирдавс",
+        "name:ru": "Фирдавсий",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 387466101,
+      "center": {
+        "lat": 41.266482,
+        "lon": 69.2283853
+      },
+      "nodes": [
+        3907607711,
+        3907607712,
+        13185073564,
+        13185073563,
+        3907607710,
+        3907607709,
+        3907607711
+      ],
+      "tags": {
+        "addr:city": "Tashkent",
+        "addr:country": "UZ",
+        "addr:housenumber": "5",
+        "addr:postcode": "100000",
+        "addr:street": "Yakkasaroy ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Yakkasaroy jom'e masjidi",
+        "name:en": "Yakkasaray",
+        "name:ru": "Яккасарай",
+        "phone": "+998712505409",
+        "religion": "muslim",
+        "website": "https://masjid.uz/toshkent-v/toshkent-sh/yakkasaroy-tumani/216-yakkasaroy.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137204552,
+      "lat": 41.3339853,
+      "lon": 69.2268693,
+      "tags": {
+        "addr:full": "Мухокама кўчаси, 11а",
+        "alt_name": "Muhokama masjidi",
+        "alt_name:ru": "Мечеть Мухокама",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "SAFABOY OTA jom`e masjidi",
+        "name:en": "Cathedral Mosque SAFABAY ATA",
+        "name:ru": "Соборная мечеть САФАБАЙ АТА",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141617158,
+      "center": {
+        "lat": 41.3367519,
+        "lon": 69.2399017
+      },
+      "nodes": [
+        1550163614,
+        1550163615,
+        13361888805,
+        13361888804,
+        1550163618,
+        13544406481,
+        1550163619,
+        13361888803,
+        1550163614
+      ],
+      "tags": {
+        "addr:housenumber": "107/4",
+        "addr:street": "Qorasaroy ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "mosque",
+        "denomination": "sunni",
+        "height": "6",
+        "name": "Tilla Shayx",
+        "name:fa": "تیلا شیخ",
+        "name:ru": "Тилля Шейх",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141617154,
+      "center": {
+        "lat": 41.3370563,
+        "lon": 69.240325
+      },
+      "nodes": [
+        1550163606,
+        9709145383,
+        9709145384,
+        13544406800,
+        9709145385,
+        9709145386,
+        1550163609,
+        1550163610,
+        9709145379,
+        9709145380,
+        9709145381,
+        9709145382,
+        1550163611,
+        1550163606
+      ],
+      "tags": {
+        "addr:housenumber": "107/2",
+        "addr:street": "Qorasaroy ko'chasi",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "sunni",
+        "height": "7",
+        "name": "Mo’yi Muborak madrasasi",
+        "name:en": "Muyi Mubarak Madrasah",
+        "name:fa": "مدرسه مویی مبارک",
+        "name:ru": "Медресе Муйи Мубарак",
+        "religion": "muslim",
+        "wikidata": "Q122672725",
+        "wikimedia_commons": "Category:Muyi Muborak Madrasah",
+        "wikipedia": "uz:Moʻyi Muborak madrasasi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 141624570,
+      "center": {
+        "lat": 41.3381785,
+        "lon": 69.2380758
+      },
+      "nodes": [
+        1550215163,
+        1550215164,
+        1550215165,
+        13544406362,
+        1550215166,
+        1550215163
+      ],
+      "tags": {
+        "addr:housenumber": "49",
+        "addr:street": "Zarqaynar 18-chi berk ko'cha",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "building:levels": "3",
+        "denomination": "sunni",
+        "name": "Kaffol Shoshiy maqbarasi",
+        "name:ru": "Мавзолей Каффаль Шаши",
+        "religion": "muslim",
+        "wikidata": "Q1721026",
+        "wikimedia_commons": "Category:Kaffal Shashi Mavzoley",
+        "wikipedia": "ru:Мавзолей Каффола Шоший"
+      }
+    },
+    {
+      "type": "way",
+      "id": 594620485,
+      "center": {
+        "lat": 41.3320866,
+        "lon": 69.2115051
+      },
+      "nodes": [
+        5669625794,
+        5669625793,
+        5669625795,
+        5669364221,
+        5669625787,
+        5669625790,
+        5669625792,
+        5669625791,
+        5669625788,
+        5669625789,
+        5669625794
+      ],
+      "tags": {
+        "addr:street": "Алока улица",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "sunni",
+        "name": "Munavvar qori masjidi",
+        "name:en": "Munavvar qori masjidi",
+        "name:ru": "Мунаввар кори",
+        "opening_hours": "24/7",
+        "religion": "muslim",
+        "service_times": "sunset,sunrise"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137247896,
+      "lat": 41.332218,
+      "lon": 69.211524,
+      "tags": {
+        "addr:full": "Алоқа кўчаси, 30",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "fixme": "Алоқа кўчаси, 30",
+        "name": "jom'e masjid",
+        "name:ru": "соборная мечеть",
+        "note": "Мунаввар қори",
+        "religion": "muslim"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7137204543,
+      "lat": 41.3375893,
+      "lon": 69.2520918,
+      "tags": {
+        "addr:full": "Қизил кўча, 96",
+        "amenity": "place_of_worship",
+        "denomination": "sunni",
+        "name": "AT-TERMIZIY jom`e masjidi",
+        "name:ru": "Соборная мечеть АТ-ТЕРМИЗИ",
+        "note": "Қизил кўча, 96",
+        "religion": "muslim"
+      }
+    }
+  ]
+}
